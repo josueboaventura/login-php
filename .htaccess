@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule login index.php?controller=LoginController
+RewriteRule register index.php?controller=RegisterController
